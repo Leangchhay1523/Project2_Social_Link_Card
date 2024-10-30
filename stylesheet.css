@@ -76,6 +76,9 @@ body{
     .my-container{
         width: 90%;
     }
+    .role{
+        font-size: 12px;
+    }
 }
 
 
