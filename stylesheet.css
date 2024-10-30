@@ -1,0 +1,66 @@
+*{
+    font-family: Inter;
+    color: white;
+}
+
+body{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.location{
+    color: #FBBC05;
+    font-size: 14px;
+    margin-top: -15px;
+    font-weight: 500;
+}
+
+.role{
+    color: hsl(0, 0%, 60%);
+}
+
+.my-container{
+    background-color: hsl(0, 0%, 8%);
+    width: 35%;
+    height: 600px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.profile{
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    margin-top: 35px;
+}
+
+.container{
+    background-color: hsl(0, 0%, 12%);
+    width: 80%;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+.container:active{
+    background-color: #FBBC05;
+    color: black
+}
+
+@media (max-width: 800px)
+{
+    .my-container{
+        width: 90%;
+    }
+}
+
+
