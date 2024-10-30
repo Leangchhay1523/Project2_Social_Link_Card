@@ -2,13 +2,7 @@
 This is my Social Link Card, the design is inspired by one of the challenge from [Frontend Mentor](https://www.frontendmentor.io/)
 
 ## Demo
-Visit Here: <a href="https://leangchhay1523.github.io/Project2_Social_Link_Card/" target="_blank">Link</a>
-
-### Normal
-<img src="Images/Demo.png" alt="Normal Demo">
-
-### Active State
-<img src="Images/Active.png" alt="Demo Active State">
+Visit Here: <a href="https://leangchhay1523.github.io/Project2_Social_Link_Card/" target="_blank">Social Link Card</a>
 
 ## Technology Used
 - HTML
