@@ -5,7 +5,7 @@ This is my second small project that is about "Social Link Profile" which is the
 Visit Here: <a href="" target="_blank">Link</a>
 
 ### Normal
-<img src="Images/Demo.png" alt="Normal Demo" width="250px" height="350px">
+<img src="Images/Demo.png" alt="Normal Demo" width="35%" height="350px">
 
 ### Active State
 <img src="Images/Demo Active.png" alt="Demo Active State">
