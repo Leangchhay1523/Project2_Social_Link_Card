@@ -1,5 +1,5 @@
 # Social_Link_Profile
-This is my second small project that is about "Social Link Profile" which is the challenge from <a href="https://www.frontendmentor.io/home" target="_blank">Frontend Mentor</a>.
+This is my Social Link Card, the design is inspired by one of the challenge from [Frontend Mentor](https://www.frontendmentor.io/)
 
 ## Demo
 Visit Here: <a href="https://leangchhay1523.github.io/Project2_Social_Link_Card/" target="_blank">Link</a>
@@ -8,15 +8,12 @@ Visit Here: <a href="https://leangchhay1523.github.io/Project2_Social_Link_Card/
 <img src="Images/Demo.png" alt="Normal Demo">
 
 ### Active State
-<img src="Images/Demo Active.png" alt="Demo Active State">
+<img src="Images/Active.png" alt="Demo Active State">
 
 ## Technology Used
 - HTML
 - CSS
 - VSCode (IDE)
-
-## Acknowledgements
-Thanks to [Frontend Mentor](https://www.frontendmentor.io/) for providing the challenge and starter files that helped me build this project.
 
 ## Contact
 Reach out to me for feedback :
